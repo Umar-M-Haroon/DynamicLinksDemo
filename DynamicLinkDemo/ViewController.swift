@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+import FirebaseDynamicLinks
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
